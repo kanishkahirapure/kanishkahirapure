@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450">
 
-<h1>Hi 👋, I'm Kanishka</h1>
+<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> , I'm Kanishka</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=MCA+Student+%F0%9F%8E%93;B.Voc+Software+Development+Graduate;Web+Developer+%7C+UI%2FUX+Enthusiast+%F0%9F%92%BB;Currently+learning+React+%26+Backend+Dev+%F0%9F%8C%B1" alt="Typing SVG" />
 
